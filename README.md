@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ccivam
-- 👀 I’m interested in Software engineering,Competitive programming
-- 🌱 I’m currently learning Web development
+- 👀 I’m interested in Software engineering,Competitive programming and ML.
+- 🌱 I’m currently learning Web development.
 
 
 

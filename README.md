@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Ccivam
-
+- 👋 Hi
 
 <!---
 Ccivam/Ccivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
